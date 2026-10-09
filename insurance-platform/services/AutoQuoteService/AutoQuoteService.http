@@ -1,0 +1,6 @@
+@AutoQuoteService_HostAddress = http://localhost:5077
+
+GET {{AutoQuoteService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
